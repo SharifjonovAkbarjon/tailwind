@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 12px;
+    gap: 23px;
+}
+
+.card{
+    width: 300px;
+    padding: 16px;
+    border-radius: 14px;
+    box-shadow: 0 0 16px #0004;
+
+}
